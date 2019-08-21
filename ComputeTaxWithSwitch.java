@@ -7,7 +7,7 @@ package computetaxwithswitch;
 
 /**
  *
- * @author Administrator
+ * @author Felix
  */
 import java.util.Scanner;
 public class ComputeTaxWithSwitch {
